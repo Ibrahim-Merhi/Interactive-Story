@@ -1,7 +1,7 @@
 Interactive story
 ============
 
-# Game title: "Exit"
+# Game title: "Time's UP"
 
 we chose this title for our story game because the events revolve around two freinds trapped
 in a room in a nuclear power plant and the players must find an exit door to survive.
