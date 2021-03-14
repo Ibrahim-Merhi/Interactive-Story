@@ -1,10 +1,10 @@
 Interactive story
 ============
 
-# Game title: "Time's UP"
+# Game title: "Speed up"
 
 we chose this title for our story game because the events revolve around two freinds trapped
-in a room in a nuclear power plant and the players must find an exit door to survive.
+in a room in a nuclear power plant and the players must find a solution and get out quickly because the place will blow after one minute only.
 
 Steps
 ============
